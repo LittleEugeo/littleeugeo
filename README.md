@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Soy estudiante de último año de Ingeniería de Sistemas, apasionado por el desarrollo de software y la tecnología. Mis áreas de interés incluyen especialmente el desarrollo web. He trabajado en varios proyectos académicos y personales que me han permitido desarrollar mis habilidades y conocimientos en este campo. Siempre busco aprender y mejorar, y estoy entusiasmado por las oportunidades futuras en el mundo de la tecnología.</p>
+<p align="left">I am a final year Systems Engineering student, passionate about software development and technology. My areas of interest especially include web development. I have worked on several academic and personal projects that have allowed me to develop my skills and knowledge in this field. I am always looking to learn and improve, and I am excited about future opportunities in the world of technology.</p>
 
 ###
 
