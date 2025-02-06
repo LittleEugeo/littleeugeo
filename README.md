@@ -30,5 +30,3 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me...***
 <img align="right" height="150" src="https://i.imgflip.com/9h12fy.gif"  />
 <p align="left">I am a final year Systems Engineering student, passionate about software development and technology. My areas of interest especially include web development. I have worked on several academic and personal projects that have allowed me to develop my skills and knowledge in this field. I am always looking to learn and improve, and I am excited about future opportunities in the world of technology.</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
