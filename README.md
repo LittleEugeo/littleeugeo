@@ -31,6 +31,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Long-Term Goals...***
 <div>
+  
 - 🚀 **Full Stack Ninja:** I want to become a full stack developer who masters both front-end and back-end with ninja skills, creating complex and amazing applications.
 - 🤝 **Pack Leader:** I aspire to be an inspiring technical leader, mentoring other developers and continuing my own journey of learning and growth in the coding world.
 </div>
