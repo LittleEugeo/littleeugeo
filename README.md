@@ -30,7 +30,7 @@
 <br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me...***
-<img align="right" height="120" src="https://i.imgflip.com/9h12fy.gif"  />
+<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="160"/>
 <p align="left">
   I am a final year Systems Engineering student, passionate about software development and technology. My areas of interest especially include web development.
 </p>
