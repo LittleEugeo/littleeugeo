@@ -7,7 +7,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -28,16 +28,21 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me...***
 
 <img align="right" height="120" src="https://i.imgflip.com/9h12fy.gif"  />
-<p align="left">I am a final year Systems Engineering student, passionate about software development and technology. My areas of interest especially include web development. I have worked on several academic and personal projects that have allowed me to develop my skills and knowledge in this field. I am always looking to learn and improve, and I am excited about future opportunities in the world of technology.</p>
+<p align="left">
+  I am a final year Systems Engineering student, passionate about software development and technology. My areas of interest especially include web development.
+</p>
+
+<p align="left">
+  I have worked on several academic and personal projects that have allowed me to develop my skills and knowledge in this field. I am always looking to learn and improve, and I am excited about future opportunities in the world of technology.
+</p>
 
 <br>
 
 <div>
-  
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Long-Term Goals...***
-- 🚀 **Full Stack Ninja:** I want to become a full stack developer who masters both front-end and back-end with ninja skills, creating complex and amazing applications.
-- 🤝 **Pack Leader:** I aspire to be an inspiring technical leader, mentoring other developers and continuing my own journey of learning and growth in the coding world.
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Long-Term Goals...***
+  - 🚀 **Full Stack Ninja:** I want to become a full stack developer who masters both front-end and back-end with ninja skills, creating complex and amazing applications.
+  - 🤝 **Pack Leader:** I aspire to be an inspiring technical leader, mentoring other developers and continuing my own journey of learning and growth in the coding world.
 </div>
