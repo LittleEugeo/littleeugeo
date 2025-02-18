@@ -21,6 +21,7 @@
 <br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***GitHub Analytics...***
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LittleEugeo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LittleEugeo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -29,7 +30,6 @@
 <br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me...***
-
 <img align="right" height="120" src="https://i.imgflip.com/9h12fy.gif"  />
 <p align="left">
   I am a final year Systems Engineering student, passionate about software development and technology. My areas of interest especially include web development.
@@ -42,6 +42,7 @@
 <br>
 
 <div>
+  
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Long-Term Goals...***
   - 🚀 **Full Stack Ninja:** I want to become a full stack developer who masters both front-end and back-end with ninja skills, creating complex and amazing applications.
   - 🤝 **Pack Leader:** I aspire to be an inspiring technical leader, mentoring other developers and continuing my own journey of learning and growth in the coding world.
